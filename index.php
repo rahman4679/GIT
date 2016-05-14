@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html lang="en">
 <head>
-  <title>KOPMA BS UPI</title>
+  <title>Sistem Order Online KOPMA BS UPI</title>
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <script src="js/jquery.js"></script> 
